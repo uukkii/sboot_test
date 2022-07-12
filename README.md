@@ -7,6 +7,7 @@
 Задание реализовано. 
 
 Точка входа в программу - `Application.java`
+
 В пакете `ru.netology.profiles` находится интерфейс `SystemProfile` с единственным методом `getProfile()`
 и две его реализации - `DevProfile`, возвращающий строку _"Current profile is dev"_, и `ProductionProfile`,
 возвращающий строку _"Current profile is production"_.
